@@ -1,0 +1,31 @@
+# Binaries (compiled files)
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+*.o
+
+# Build directories
+bin/
+build/
+
+# Dependency directories
+vendor/
+
+# Go modules cache
+go.sum
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Testing and coverage files
+*.test
+*.cover
+coverage.out
